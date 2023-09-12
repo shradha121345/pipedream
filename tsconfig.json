@@ -2525,6 +2525,39 @@
     },
     {
       "path": "components/pingbell"
+    },
+    {
+      "path": "components/ewebinar"
+    },
+    {
+      "path": "components/scraptio"
+    },
+    {
+      "path": "components/knowfirst"
+    },
+    {
+      "path": "components/starton"
+    },
+    {
+      "path": "components/civicrm"
+    },
+    {
+      "path": "components/giantcampaign"
+    },
+    {
+      "path": "components/melo"
+    },
+    {
+      "path": "components/seven"
+    },
+    {
+      "path": "components/gong"
+    },
+    {
+      "path": "components/gigasheet"
+    },
+    {
+      "path": "components/personio"
     }
   ]
 }
